@@ -32,4 +32,3 @@ alarm(total_seconds)
 alarm(10)
 
 
-print
